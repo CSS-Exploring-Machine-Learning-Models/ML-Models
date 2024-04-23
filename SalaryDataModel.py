@@ -14,7 +14,7 @@ from tensorflow.keras import layers
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-df = pd.read_csv("Salary Data.csv")
+df = pd.read_csv("SalaryData.csv")
 
 
 # In[3]:
