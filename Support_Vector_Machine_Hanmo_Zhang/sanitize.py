@@ -10,7 +10,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from transformers import BertModel, BertTokenizer
 
 # Load data
-df = pd.read_csv('Salary Data.csv')
+df = pd.read_csv('E:\machine_learning\ML_Git_repo\ML-Models\Support_Vector_Machine_Hanmo_Zhang\Salary Data.csv')
 
 # Initialize tokenizer and model
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
