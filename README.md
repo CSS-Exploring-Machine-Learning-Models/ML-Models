@@ -1,6 +1,7 @@
 # Different Models
 
 Project Lead: Michelle Reyes <br>
+<br> 
 Group Members:<br>
 Megan Bee <br>
 Michael castillo <br>
@@ -17,7 +18,7 @@ Learn how to implement different algorithms to a model. ​<br>
 Learn an outline that is applicable to most machine learning models.​ <br>
 Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset. <br>
 
-<br>
+
 Technologies:<br>
 Sklearn ​<br>
 Seaborn ​<br>
