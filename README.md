@@ -1,6 +1,38 @@
 # Different Models
-We are a project team from the CSS at Cal Poly Pomona that is exploring different machine learning Algorithms. Our primary objective is to address one problem: predicting an individual's salary based on a set of variables. Given the various models, we will then analyze, compare, and contrast the models and understand which model is the most effective.
+
+Project Lead: Michelle Reyes
+
+Group Members:
+Megan Bee
+Michael castillo
+Britney Collier
+Bijou Raj
+Nicholas Hoang 
+Hanmo Zhang 
+Gabriel Robles
+Johnny Garcia
 
 
+Goals of the Project:
+Learn how to implement different algorithms to a model. ​
+
+Learn an outline that is applicable to most machine learning models.​
+
+Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset.
+
+
+
+Technologies:
+Sklearn ​
+
+Seaborn ​
+
+Matplotlib​
+
+Tensor flow ​
+
+Pandas ​
+
+Numpy
 
 
