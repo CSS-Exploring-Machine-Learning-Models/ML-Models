@@ -1,7 +1,6 @@
 # Different Models
 
-Project Lead: Michelle Reyes
-<br>
+Project Lead: Michelle Reyes <br>
 Group Members:<br>
 Megan Bee <br>
 Michael castillo <br>
