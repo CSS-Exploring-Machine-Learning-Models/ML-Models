@@ -1,38 +1,30 @@
 # Different Models
 
 Project Lead: Michelle Reyes
-
-Group Members:
+<br>
+Group Members:<br>
 Megan Bee <br>
 Michael castillo <br>
-Britney Collier
-Bijou Raj
-Nicholas Hoang 
-Hanmo Zhang 
-Gabriel Robles
-Johnny Garcia
+Britney Collier <br>
+Bijou Raj <br>
+Nicholas Hoang <br>
+Hanmo Zhang <br>
+Gabriel Robles <br>
+Johnny Garcia <br>
 
 
-Goals of the Project:
-Learn how to implement different algorithms to a model. ​
+Goals of the Project: <br>
+Learn how to implement different algorithms to a model. ​<br>
+Learn an outline that is applicable to most machine learning models.​ <br>
+Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset. <br>
 
-Learn an outline that is applicable to most machine learning models.​
-
-Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset.
-
-
-
-Technologies:
-Sklearn ​
-
-Seaborn ​
-
-Matplotlib​
-
-Tensor flow ​
-
-Pandas ​
-
-Numpy
+<br>
+Technologies:<br>
+Sklearn ​<br>
+Seaborn ​<br>
+Matplotlib​ <br>
+Tensor flow ​<br>
+Pandas ​<br>
+Numpy <br>
 
 
