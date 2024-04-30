@@ -3,8 +3,8 @@
 Project Lead: Michelle Reyes
 
 Group Members:
-Megan Bee
-Michael castillo
+Megan Bee <br>
+Michael castillo <br>
 Britney Collier
 Bijou Raj
 Nicholas Hoang 
