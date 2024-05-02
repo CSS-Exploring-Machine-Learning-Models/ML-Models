@@ -1,6 +1,8 @@
 import torch
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -58,6 +60,8 @@ salary_std = scaler.scale_[df.columns.get_loc('Salary')]
 # Handle duplicate data
 df = df.drop_duplicates()
 
+print (df.head())
+
 # Identify and handle outliers (example method, suitable for numeric columns)
 Q1 = df[numeric_cols].quantile(0.25)
 Q3 = df[numeric_cols].quantile(0.75)
@@ -70,6 +74,14 @@ y = df_cleaned['Salary']  # Target variable
 
 # Split data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+plt.figure(figsize=(8, 6))
+sns.regplot(data=df, x='Years of Experience', y='Salary', scatter_kws={'alpha': 0.5})
+plt.title('Years of Experience vs Salary')
+plt.xlabel('Years of Experience (Standardized)')
+plt.ylabel('Salary (Standardized)')
+plt.grid(True)
+plt.show()
 
 # Initialize the Support Vector Regression model
 model = SVR()
@@ -105,3 +117,4 @@ y_test = y_test * salary_std + salary_mean
 # Print predicted vs actual salaries
 comparison = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
 print(comparison.head())
+
