@@ -1,6 +1,37 @@
 # Different Models
-We are a project team from the CSS at Cal Poly Pomona that is exploring different machine learning Algorithms. Our primary objective is to address one problem: predicting an individual's salary based on a set of variables. Given the various models, we will then analyze, compare, and contrast the models and understand which model is the most effective.
+
+Dataset: https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer/data
+<br>
+
+Project Lead: Michelle Reyes <br>
+<br> 
+Group Members:<br>
+Megan Bee <br>
+Michael castillo <br>
+Britney Collier <br>
+Bijou Raj <br>
+Nicholas Hoang <br>
+Hanmo Zhang <br>
+Gabriel Robles <br>
+Johnny Garcia <br>
 
 
+Goals of the Project: <br>
+Learn how to implement different algorithms to a model. ​<br>
+Learn an outline that is applicable to most machine learning models.​ <br>
+Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset. <br>
 
+
+Technologies:<br>
+Sklearn ​<br>
+Seaborn ​<br>
+Matplotlib​ <br>
+Tensor flow ​<br>
+Pandas ​<br>
+Numpy <br>
+
+The Highest Accuracy: ​<br>
+<strong>Random forest.</strong> ​<br>
+Most optimal given Accuracy and Program friendliness: ​<br>
+<strong>Linear Regression since it is easier to implement, does not cause overfitting, and has an r^2 score of 84-89%.​</strong><br>
 
