@@ -36,13 +36,13 @@ Most optimal given Accuracy and Program friendliness: ​<br>
 <strong>Linear Regression since it is easier to implement, does not cause overfitting, and has an r^2 score of 84-89%.​</strong><br>
 
 
-<img src  = "Images/Svm (3).jpeg" width="150" height="280">
-<img src  = "Images/LinearRegression.png" width="150" height="280">
-<img src  = "Images/LinearRegressiontwo.png" width="150" height="280">
-<img src  = "Images/KNN.png" width="150" height="280">
-<img src  = "Images/DecisionTree.png" width="150" height="280">
-<img src  = "Images/NeuralNetwork.png" width="150" height="280">
-<img src  = "Images/RandomForest.png"width="150" height="280" >
-<img src  = "Images/XGBoost.png" width="150" height="280">
+<img src  = "Images/Svm (3).jpeg" width="150" height="500">
+<img src  = "Images/LinearRegression.png" width="150" height="500">
+<img src  = "Images/LinearRegressiontwo.png" width="150" height="500">
+<img src  = "Images/KNN.png" width="150" height="500">
+<img src  = "Images/DecisionTree.png" width="150" height="500">
+<img src  = "Images/NeuralNetwork.png" width="150" height="500">
+<img src  = "Images/RandomForest.png"width="150" height="500" >
+<img src  = "Images/XGBoost.png" width="150" height="500">
 
 
