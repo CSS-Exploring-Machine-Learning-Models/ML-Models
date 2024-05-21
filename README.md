@@ -35,3 +35,4 @@ The Highest Accuracy: ​<br>
 Most optimal given Accuracy and Program friendliness: ​<br>
 <strong>Linear Regression since it is easier to implement, does not cause overfitting, and has an r^2 score of 84-89%.​</strong><br>
 
+<img src  = "Images/DecisionTree.png">
