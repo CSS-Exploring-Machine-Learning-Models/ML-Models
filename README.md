@@ -33,7 +33,7 @@ Numpy <br>
 The Highest Accuracy: ​<br>
 <strong>Random forest.</strong> ​<br>
 Most optimal given Accuracy and Program friendliness: ​<br>
-<strong>Linear Regression since it is easier to implement, does not cause overfitting, and has an r^2 score of 84-89%.​</strong><br>
+<strong>Linear Regression since it is easier to implement, does not cause overfitting, and has an r<sup>2</sup> score of 84-89%.​</strong><br>
 
 
 <img src  = "Images/Svm (3).jpeg" width="400" height="280">
@@ -43,6 +43,6 @@ Most optimal given Accuracy and Program friendliness: ​<br>
 <img src  = "Images/DecisionTree.png" width="400" height="280">
 <img src  = "Images/NeuralNetwork.png" width="400" height="280">
 <img src  = "Images/RandomForest.png"width="400" height="280" >
-<img src  = "Images/XGBoost.png" width="400" height="280">
+<img src  = "Images/XGBoost.png" width="350" height="280">
 
 
