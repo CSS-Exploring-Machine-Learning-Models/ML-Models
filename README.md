@@ -39,3 +39,10 @@ Most optimal given Accuracy and Program friendliness: ​<br>
 <img src  = "Images/Svm (3).jpeg">
 <img src  = "Images/LinearRegression.png">
 <img src  = "Images/LinearRegressiontwo.png">
+<img src  = "Images/KNN.png">
+<img src  = "Images/DecisionTree.png">
+<img src  = "Images/NeuralNetwork.png">
+<img src  = "Images/RandomForest.png">
+<img src  = "Images/XGBoost.png">
+
+
