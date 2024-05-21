@@ -17,9 +17,9 @@ Johnny Garcia <br>
 
 
 Goals of the Project: <br>
-Learn how to implement different algorithms to a model. ​<br>
-Learn an outline that is applicable to most machine learning models.​ <br>
-Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset. <br>
+1.Learn how to implement different algorithms to a model. ​<br>
+2.Learn an outline that is applicable to most machine learning models.​ <br>
+3.Learn how to identify suitable algorithms and seeking the most efficient solutions for the dataset. <br>
 
 
 Technologies:<br>
