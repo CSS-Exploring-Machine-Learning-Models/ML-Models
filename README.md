@@ -37,3 +37,5 @@ Most optimal given Accuracy and Program friendliness: ​<br>
 
 
 <img src  = "Images/Svm (3).jpeg">
+<img src  = "Images/LinearRegression.png">
+<img src  = "Images/LinearRegressiontwo.png">
